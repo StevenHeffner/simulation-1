@@ -1,0 +1,25 @@
+.product{
+  height: 300px;
+  width: 350px;
+  background-color: #D34735;
+  margin-top: 20px;
+}
+.content{
+ display: flex;
+ justify-content: space-between;
+}
+.form{
+  height: 520px;
+  width: 450px;
+  background-color: #3AD886;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-top: 100px;
+  
+}
+.img{
+  height: 200px;
+  width: 350px;
+
+}
